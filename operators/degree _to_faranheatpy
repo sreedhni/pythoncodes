@@ -1,0 +1,7 @@
+temp=32
+fh=(temp*(9/5)+32)
+print(fh)
+temp=32
+tk=(temp+273)
+print(tk)
+

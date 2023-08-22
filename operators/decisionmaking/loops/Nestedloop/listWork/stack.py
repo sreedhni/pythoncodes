@@ -1,0 +1,11 @@
+lst=[]
+lst.append(23)
+lst.append(10)
+lst.append(54)
+print(lst)
+lst.pop()
+print(lst)
+lst.pop()
+print(lst)
+lst.pop()
+print(lst)

@@ -1,0 +1,6 @@
+second largest
+sort these numbers
+
+
+calculate bmi
+bmi=weight/hieght in mtr**2

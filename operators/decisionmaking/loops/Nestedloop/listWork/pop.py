@@ -1,0 +1,9 @@
+#pop
+#listName.pop()
+bikes=["gyxer","intersepter","jawa","slender","ducatti"]
+b=bikes.pop()
+print(b)
+print(bikes)
+b2=bikes.pop(3)
+print(bikes)
+print(b2)
